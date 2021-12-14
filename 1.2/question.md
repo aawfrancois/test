@@ -1,4 +1,4 @@
-#1.2. 
+#1.2.   
 ###Que penses-tu de cette approche, point de vue pratique, mais aussi conceptuel ? 
 ###Y trouves-tu des inconvénients ? 
 ###Lesquels ? 
