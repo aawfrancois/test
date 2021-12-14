@@ -3,7 +3,7 @@
 ###Y trouves-tu des inconvénients ?  
 ###Lesquels ?  
 
-L'approche est sympa en terme de lisibilité mais le code est très redondant, en terme de conception trop volumineux pour le travail a effectué.
+L'approche est sympa en terme de lisibilité mais le code est très redondant, en terme de conception trop volumineux pour le travail à effectuer.
 
 Oui, je trouve qu'il y a des inconvéniants:
 - avoir une méthode lié a un chiffre en particulier
